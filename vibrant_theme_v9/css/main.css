@@ -1,0 +1,16 @@
+/* Global */
+html#ccm-fix {
+    font-size: 18px; }
+
+html, body {
+    line-height: 1.5;
+    overflow-x: hidden; }
+
+ul li {
+    list-style-type: none; }
+
+a {
+    transition: 175ms ease-in-out; }
+
+img {
+    max-width: 100%; }
